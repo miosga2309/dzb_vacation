@@ -1,0 +1,9 @@
+country,city,year,startdate,cost,length,longitude,latitude,members
+Niederlande,Dalen,2013,31.01.2013,67,3,"52,674","6,770",10
+Niederlande,Dalen,2014,30.01.2014,80,3,"52,676","6,766",11
+Tschechien,Prag,2015,30.05.2015,90,3,"50,082","14,428",8
+Niederlande,Lemmer,2016,01.05.2016,180,4,"52,863","5,852",10
+Portugal,Porto,2017,10.05.2017,147,4,"41,083","-8,654",7
+Griechenland,Thessaloniki,2018,08.05.2018,145,7,"40,647","22,950",8
+Kroatien,Zadar,2019,27.05.2019,140,4,"44,170","15,184",10
+Österreich,Wien,2019,01.11.2019,130,3,"48,207","16,338",7
